@@ -1,13 +1,13 @@
 html {
   height: 100%;
   width: 100%;
-  font-family: "Titillium Web", sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
   min-height: 100%;
   min-width: 100%;
-  background: linear-gradient(pink, violet);
+  background: linear-gradient(rgb(72, 181, 196), rgb(184, 15, 147));
 }
 
 button {
@@ -26,6 +26,11 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+h1 {
+color: rgb(184, 15, 147);
+}
+
 
 #list {
   margin: 10px;
